@@ -1,0 +1,6 @@
+Hello, Python!
+This is a new line.My name is AvishaI am DeveloperMy name is Avisha
+ I am DeveloperMy name is Avisha
+ I am DeveloperMy name is Avisha
+ I am DeveloperMy name is Avisha
+ I am Developer
