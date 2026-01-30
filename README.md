@@ -1,42 +1,59 @@
-# Pintola Website – HTML & CSS Project
+# Python Programs – Beginner to OOP Concepts
 
-This project is a responsive and static website designed using **HTML5** and **CSS3**, inspired by the Pintola brand website.  
-The goal of this project is to practice front-end design concepts such as layouts, styling, and multi-page navigation.
+This repository contains a collection of **Python programs and documentation** created while learning Python programming.  
+It covers topics ranging from **basic syntax** to **Object-Oriented Programming (OOP)** concepts.
 
----
-
-## 🔧 Technologies Used
-- HTML5
-- CSS3
+This repository is intended for practice, learning, and revision of core Python fundamentals.
 
 ---
 
-## 📄 Pages Included
-- Home  
-- About Us  
-- Store  
-- Recipes  
-- Cart  
-- Search  
-- User Profile  
-- Track Order  
-- Contact Us  
+## 📚 Topics Covered
+
+### 🔹 Python Basics
+- Variables & Data Types
+- Operators
+- Conditional Statements
+- Loops (for / while)
+- User Input
+- Basic Functions
+
+### 🔹 Data Structures
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+
+### 🔹 Functions & Modules
+- User-defined functions
+- Arguments & return values
+- Built-in functions
+
+### 🔹 File Handling
+- Read & write files
+- Text file operations
+
+### 🔹 Object-Oriented Programming (OOP)
+- Classes & Objects
+- Constructors (`__init__`)
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Abstraction
+
+### 🔹 Exception Handling
+- Try / Except blocks
+- Custom exceptions
 
 ---
 
-## ▶️ How to Run the Project
-1. Clone or download this repository
-2. Open the `Home.html` file in any modern web browser
-
----
-
-## 🎯 Project Purpose
-- Improve front-end development skills
-- Understand website structure and styling
-- Practice real-world website layout design using HTML & CSS
-
----
-
-## 👩‍💻 Author
-**Avisha Patel**  
-GitHub: https://github.com/AvishaPatel
+## 📂 Repository Structure
+```text
+python-programs/
+│
+├── basics/
+├── data_structures/
+├── functions/
+├── file_handling/
+├── oops/
+├── exceptions/
+└── documentation/
